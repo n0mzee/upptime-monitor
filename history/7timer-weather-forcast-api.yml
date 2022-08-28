@@ -1,7 +1,7 @@
 url: http://www.7timer.info/bin/api.pl?lon=113.17&lat=23.09&product=astro&output=json
 status: up
 code: 200
-responseTime: 1468
-lastUpdated: 2022-08-28T21:43:17.869Z
+responseTime: 399
+lastUpdated: 2022-08-28T23:15:46.136Z
 startTime: Sat Aug 06 2022 07:09:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
